@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: fundata-varena
+Version: 0.0.1
+Summary: A fundata sdk package for api.varena.com,             for API docs, see http://open.varena.com/
+Home-page: https://github.com/fundata-varena/fundata-python-sdk
+Author: VArena Shanghai Team
+Author-email: fundata@varena.com
+License: MIT
+Description: UNKNOWN
+Keywords: fundata,varena
+Platform: UNKNOWN

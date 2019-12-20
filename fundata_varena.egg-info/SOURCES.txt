@@ -1,0 +1,4 @@
+fundata_varena.egg-info/PKG-INFO
+fundata_varena.egg-info/SOURCES.txt
+fundata_varena.egg-info/dependency_links.txt
+fundata_varena.egg-info/top_level.txt
