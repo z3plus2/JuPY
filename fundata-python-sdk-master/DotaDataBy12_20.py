@@ -17,12 +17,12 @@ client = ApiClient(public_key, secret_key)
 
 # 准备 API 需要的参数
 uri = '/fundata-dota2-free/v2/match/general-info'
-StartId = 5157360000  #16日晚上
+StartId = 5157566749  #list12.20v2 5157566748
 
 SUM: int=100000
 
 
-with open('list12-20.csv', 'w', encoding='utf-8') as fout:
+with open('list12-20-V3.csv', 'w', encoding='utf-8') as fout:
     a: int=1
     while a<SUM:
         StartId+=1
